@@ -37,6 +37,8 @@ Il s’agit du **Projet 6** du parcours Développeur Web chez **OpenClassrooms**
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+
+- 
 .
 ├── index.html
 ├── README.md
@@ -55,9 +57,9 @@ Il s’agit du **Projet 6** du parcours Développeur Web chez **OpenClassrooms**
 
 
 # Auteur
-
-**Atourya Mhoumadi**  
+Atourya Mhoumadi
 GitHub : https://github.com/mhoumadiatouriya-hue
+
 Projet réalisé dans le cadre du parcours *Développeur Web – OpenClassrooms*.  
 Usage pédagogique uniquement.
 
